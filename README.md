@@ -1,6 +1,6 @@
 # Jumpscare Mod
 
-A spooky Minecraft Forge mod that randomly displays the Withered Foxy jumpscare with sound!
+A  for minecraft 1.20.1 Minecraft Forge mod that randomly displays the Withered Foxy jumpscare with sound!
 
 ## Features
 
