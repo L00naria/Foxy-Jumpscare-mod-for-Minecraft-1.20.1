@@ -1,0 +1,12 @@
+{
+  "jumpscare": {
+    "category": "master",
+    "subtitle": "subtitles.jumpscaremod.jumpscare",
+    "sounds": [
+      {
+        "name": "jumpscaremod:jumpscare"
+      }
+    ]
+  }
+}
+

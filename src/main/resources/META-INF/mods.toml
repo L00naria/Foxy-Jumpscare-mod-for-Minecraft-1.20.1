@@ -1,0 +1,15 @@
+modLoader="javafxmod"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/example/jumpscaremod"
+
+[[mods]]
+modId="jumpscaremod"
+version="1.0"
+displayName="Jumpscare Mod"
+logoFile="assets/jumpscaremod/logo.png"
+credits="Created for Minecraft"
+authors="Your Name"
+description='''
+A spooky mod that randomly shows the Withered Foxy jumpscare!
+'''
